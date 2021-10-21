@@ -15,7 +15,7 @@ Jogo da memória com o tema: tecnologias web. Tecnologias utilizadas: HTML, CSS 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![mockup_jogo_da_memoria](https://user-images.githubusercontent.com/70289587/138353562-3ea64a41-7000-4518-862d-efc9933bf03d.jpg)
 
   
 ## Tech Stack
